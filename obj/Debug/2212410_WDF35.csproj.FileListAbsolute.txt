@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\2212410_WDF35\bin\Debug\2212410_WDF35.exe.config
+C:\Users\LUAN\source\repos\2212410_WDF35\bin\Debug\2212410_WDF35.exe
+C:\Users\LUAN\source\repos\2212410_WDF35\bin\Debug\2212410_WDF35.pdb
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\2212410_WDF35.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\_2212410_WDF35.frmLinkLable.resources
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\_2212410_WDF35.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\2212410_WDF35.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\2212410_WDF35.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\2212410_WDF35.exe
+C:\Users\LUAN\source\repos\2212410_WDF35\obj\Debug\2212410_WDF35.pdb
